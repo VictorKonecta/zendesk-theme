@@ -178,8 +178,8 @@
         {
           "identifier": "teste",
           "type": "file",
-          "description": "teste description",
-          "label": "teste label"
+          "description": "teste_description",
+          "label": "teste_label"
         }
       ]
     },
